@@ -2,7 +2,7 @@ var GHPATH = '/NDNTSurveyMap';
 
 var APP_PREFIX = 'NDNTSurveyMap_';
 
-var VERSION = 'version_00';
+var VERSION = 'version_01';
 
 
 var URLS = [
